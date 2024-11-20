@@ -15,7 +15,7 @@ public class DevsecopsApplication {
 
     @RequestMapping("/")
     public String home() {
-        return "My Awesome Project.";
+        return "My Awesome DevOps Project.";
     }
 
 }
